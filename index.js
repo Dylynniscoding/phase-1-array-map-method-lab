@@ -28,5 +28,7 @@ function titleCased() {
     let result = capitalizedWords.join(' ')
     return result
   })
-}
+};
+
+
 
